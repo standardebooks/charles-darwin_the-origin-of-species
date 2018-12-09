@@ -1,6 +1,15 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+abbr.name{
+	white-space: nowrap;
+}
+
+abbr.era{
+	white-space: nowrap;
+	font-variant: all-small-caps;
+}
+
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
@@ -17,6 +26,13 @@ footer{
 	text-align: right;
 }
 
-time{
-	color: red;
+section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
+	display: block;
+	font-size: .75em;
+	font-weight: normal;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
 }
