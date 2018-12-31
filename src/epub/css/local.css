@@ -36,3 +36,13 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+dt{
+	margin-top: 0.5em;
+	font-variant: small-caps;
+}
+
+dd{
+	margin-bottom: 0.5em;
+	margin-left: 0.5em;
+}
