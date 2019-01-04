@@ -10,18 +10,6 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
-[epub|type~="bridgehead"]{
-	display: inline-block;
-	font-style: italic;
-	margin-top: 0;
-	margin-right: auto;
-	margin-bottom: 3em;
-	margin-left: auto;
-	max-width: 60%;
-	text-align: justify;
-	text-indent: 0;
-}
-
 footer{
 	text-align: right;
 }
