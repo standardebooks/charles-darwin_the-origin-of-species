@@ -28,16 +28,14 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" rel="onix-record"/>
-		<dc:title id="title">The Origin of Species by Means of Natural Selection</dc:title>
-		<meta property="file-as" refines="#title">Origin of Species by Means of Natural Selection, The</meta>
+		<dc:title id="title">The Origin of Species</dc:title>
+		<meta property="file-as" refines="#title">Origin of Species, The</meta>
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="subtitle">Or, the Preservation of Favoured Races in the Struggle for Life</dc:title>
 		<meta property="file-as" refines="#subtitle">Or, the Preservation of Favoured Races in the Struggle for Life</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life</dc:title>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
-		<dc:title id="title-short">The Origin of Species</dc:title>
-		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Evolution (Biology)</dc:subject>
 		<dc:subject id="subject-2">Natural selection</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2009</meta>
@@ -55,6 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2009</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100424049</dc:source>
+		<meta property="se:production-notes">Bridgeheads in the original have been removed as they merely list the subheadings already in the table of contents.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Origin_of_Species_by_Means_of_Natural_Selection</meta>
