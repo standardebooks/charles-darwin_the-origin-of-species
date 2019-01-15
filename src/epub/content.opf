@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species</dc:identifier>
 		<dc:date>2019-01-15T04:52:30Z</dc:date>
-		<meta property="dcterms:modified">2019-01-15T04:52:30Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2019-01-15T16:25:11Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,7 +44,7 @@
 		<dc:description id="description">A distinguished amateur scientist lays out the evidence for the origin of species by means of natural selection.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Origin of Species&lt;/i&gt; by Charles Darwin must rank as one of the most influential and consequential books ever published, initiating scientific, social and religious ferment every since its first publication in 1859. Its full title is &lt;i&gt;The Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life&lt;/i&gt;, in some editions prefaced by the word “On.”&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Origin of Species&lt;/i&gt; by Charles Darwin must rank as one of the most influential and consequential books ever published, initiating scientific, social and religious ferment ever since its first publication in 1859. Its full title is &lt;i&gt;The Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life&lt;/i&gt;, in some editions prefaced by the word “On.”&lt;/p&gt;
 			&lt;p&gt;Darwin describes the book as simply an “abstract” of his ideas, which are more fully fleshed out and supported with detailed examples in his other, more scholarly works (for example, he wrote several long treatises entirely about barnacles). &lt;i&gt;The Origin of Species&lt;/i&gt; itself was intended to reach a wider audience and is written in such a way that any reasonably educated and thoughtful reader can follow Darwin’s argument that species of animals and plants are not independent creations, fixed for all time, but mutable. Species have been shaped in response to the effects of natural selection, which Darwin compares to the directed or manual selection by human breeders of domesticated animals.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Origin of Species&lt;/i&gt; was eagerly taken up by the reading public, and rapidly went through several editions. This Standard Ebooks edition is based on the sixth edition published by John Murray in 1872, generally considered to be the definitive edition with many amendments and updates by Darwin himself.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Origin of Species&lt;/i&gt; has never been out of print and continues to be an extremely popular work. Later scientific discoveries such as the breakthrough of DNA sequencing have refined our concept of some of Darwin’s ideas and given us a better understanding of issues he found puzzling, but the basic thrust of his theory remains unchallenged.&lt;/p&gt;
