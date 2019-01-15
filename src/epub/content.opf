@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2019-01-15T04:52:30Z</dc:date>
+		<meta property="dcterms:modified">2019-01-15T04:52:30Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,19 +45,19 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Origin of Species&lt;/i&gt; by Charles Darwin must rank as one of the most influential and consequential books ever published, initiating scientific, social and religious ferment every since its first publication in 1859. Its full title is &lt;i&gt;The Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life&lt;/i&gt;, in some editions prefaced by the word “On.”&lt;/p&gt;
-			&lt;p&gt;Darwin describes the book as simply an ‘abstract’ of his ideas, which are more fully fleshed out and supported with detailed examples in his other, more scholarly works (for example, he wrote several long treatises entirely about barnacles). &lt;i&gt;The Origin of Species&lt;/i&gt; itself was intended to reach a wider audience and is written in such a way that any reasonably educated and thoughtful reader can follow Darwin’s argument that species of animals and plants are not independent creations, fixed for all time, but mutable. Species have been shaped in response to the effects of natural selection, which Darwin compares to the directed or manual selection by human breeders of domesticated animals.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Origin of Species&lt;/i&gt; was eagerly taken up by the reading public, and reapidly went through several editions. This Standard Ebooks production is based on the sixth edition published by John Murray in 1872, generally considered to be the definitive edition with many amendments and updates by Darwin himself.&lt;/p&gt;
+			&lt;p&gt;Darwin describes the book as simply an “abstract” of his ideas, which are more fully fleshed out and supported with detailed examples in his other, more scholarly works (for example, he wrote several long treatises entirely about barnacles). &lt;i&gt;The Origin of Species&lt;/i&gt; itself was intended to reach a wider audience and is written in such a way that any reasonably educated and thoughtful reader can follow Darwin’s argument that species of animals and plants are not independent creations, fixed for all time, but mutable. Species have been shaped in response to the effects of natural selection, which Darwin compares to the directed or manual selection by human breeders of domesticated animals.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Origin of Species&lt;/i&gt; was eagerly taken up by the reading public, and rapidly went through several editions. This Standard Ebooks edition is based on the sixth edition published by John Murray in 1872, generally considered to be the definitive edition with many amendments and updates by Darwin himself.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Origin of Species&lt;/i&gt; has never been out of print and continues to be an extremely popular work. Later scientific discoveries such as the breakthrough of DNA sequencing have refined our concept of some of Darwin’s ideas and given us a better understanding of issues he found puzzling, but the basic thrust of his theory remains unchallenged.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2009</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100424049</dc:source>
-		<meta property="se:production-notes">Bridgeheads in the original have been removed as they merely list the subheadings already in the table of contents.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:production-notes">Leading chapter summaries in the original have been removed as they merely list the subheadings already in the table of contents.</meta>
+		<meta property="se:word-count">200094</meta>
+		<meta property="se:reading-ease.flesch">36.66</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Origin_of_Species_by_Means_of_Natural_Selection</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-darwin_the-origin-of-species-by-means-of-natural-selection</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-darwin_the-origin-of-species</meta>
 		<dc:creator id="author">Charles Darwin</dc:creator>
 		<meta property="file-as" refines="#author">Darwin, Charles</meta>
 		<meta property="se:name.person.full-name" refines="#author">Charles Robert Darwin</meta>
@@ -66,7 +66,6 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aui</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Edwin Landseer</dc:contributor>
 		<meta property="file-as" refines="#artist">Landseer, Edwin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edwin_Landseer</meta>
@@ -87,6 +86,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
