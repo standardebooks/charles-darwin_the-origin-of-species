@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Origin of Species</dc:title>
 		<meta property="file-as" refines="#title">Origin of Species, The</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -37,18 +37,18 @@
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Evolution (Biology)</dc:subject>
 		<dc:subject id="subject-2">Natural selection</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2009</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2009</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh90004042</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85090264</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">A distinguished amateur scientist lays out the evidence for the origin of species by means of natural selection.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Origin of Species&lt;/i&gt; by Charles Darwin must rank as one of the most influential and consequential books ever published, initiating scientific, social and religious ferment ever since its first publication in 1859. Its full title is &lt;i&gt;The Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life&lt;/i&gt;, in some editions prefaced by the word “On.”&lt;/p&gt;
 			&lt;p&gt;Darwin describes the book as simply an “abstract” of his ideas, which are more fully fleshed out and supported with detailed examples in his other, more scholarly works (for example, he wrote several long treatises entirely about barnacles). &lt;i&gt;The Origin of Species&lt;/i&gt; itself was intended to reach a wider audience and is written in such a way that any reasonably educated and thoughtful reader can follow Darwin’s argument that species of animals and plants are not independent creations, fixed for all time, but mutable. Species have been shaped in response to the effects of natural selection, which Darwin compares to the directed or manual selection by human breeders of domesticated animals.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Origin of Species&lt;/i&gt; was eagerly taken up by the reading public, and rapidly went through several editions. This Standard Ebooks edition is based on the sixth edition published by John Murray in 1872, generally considered to be the definitive edition with many amendments and updates by Darwin himself.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Origin of Species&lt;/i&gt; has never been out of print and continues to be an extremely popular work. Later scientific discoveries such as the breakthrough of DNA sequencing have refined our concept of some of Darwin’s ideas and given us a better understanding of issues he found puzzling, but the basic thrust of his theory remains unchallenged.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2009</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100424049</dc:source>
