@@ -19,11 +19,6 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 dd + dt{
 	margin-top: 1em;
 }
