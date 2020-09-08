@@ -13,12 +13,6 @@ i em{
 	font-style: normal;
 }
 
-section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
-	display: block;
-	font-size: .75em;
-	font-weight: normal;
-}
-
 dd + dt{
 	margin-top: 1em;
 }
