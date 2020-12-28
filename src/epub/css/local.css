@@ -8,3 +8,7 @@ abbr.era{
 dd + dt{
 	margin-top: 1em;
 }
+
+table tbody td:last-child{
+	text-align: right;
+}
