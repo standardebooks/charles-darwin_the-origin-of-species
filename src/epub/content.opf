@@ -61,7 +61,7 @@
 		<meta property="file-as" refines="#author">Darwin, Charles</meta>
 		<meta property="se:name.person.full-name" refines="#author">Charles Robert Darwin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charles_Darwin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n78095637</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095637</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">aui</meta>
@@ -69,7 +69,7 @@
 		<dc:contributor id="artist">Edwin Landseer</dc:contributor>
 		<meta property="file-as" refines="#artist">Landseer, Edwin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edwin_Landseer</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n80056887</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80056887</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Sue Asscher</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Asscher, Sue</meta>
