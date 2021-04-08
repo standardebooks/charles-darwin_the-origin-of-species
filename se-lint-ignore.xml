@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="glossary.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Matched text are "continuations" of the definition above.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
