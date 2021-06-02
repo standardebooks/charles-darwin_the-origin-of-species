@@ -18,9 +18,6 @@
 	<search-key-group href="text/glossary.xhtml#algae">
 		<match value="algae"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#alternation-of-generations">
-		<match value="alternation of generations"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ammonites">
 		<match value="ammonite">
 			<value value="ammonites"/>
@@ -46,12 +43,6 @@
 		<match value="anther">
 			<value value="anthers"/>
 		</match>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#aplacentalia">
-		<match value="aplacentalia"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#aplacentata">
-		<match value="aplacentata"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#aplacental-mammals">
 		<match value="aplacental mammals"/>
@@ -82,7 +73,9 @@
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#brachiopoda">
-		<match value="brachiopoda"/>
+		<match value="brachiopod">
+			<value value="brachiopods"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#branchiae">
 		<match value="branchia">
@@ -142,15 +135,10 @@
 		<match value="compositae"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#compositous-plants">
-		<match value="compositous">
-			<value value="compositous plant"/>
-			<value value="compositous plants"/>
-		</match>
+		<match value="compositous"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#confervae">
-		<match value="conferva">
-			<value value="confervae"/>
-		</match>
+		<match value="conferva"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#conglomerate">
 		<match value="conglomerate"/>
@@ -160,9 +148,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#correlation">
 		<match value="correlation"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#corymb">
-		<match value="corymb"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cotyledons">
 		<match value="cotyledon">
@@ -189,9 +174,6 @@
 	<search-key-group href="text/glossary.xhtml#devonian-system">
 		<match value="devonian system"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#devonian-formation">
-		<match value="devonian formation"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dicotyledons">
 		<match value="dicotyledon">
 			<value value="dicotyledons"/>
@@ -203,8 +185,8 @@
 			<value value="dicotyledonous plants"/>
 		</match>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#differentation">
-		<match value="differentation"/>
+	<search-key-group href="text/glossary.xhtml#differentiation">
+		<match value="differentiation"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dimorphic">
 		<match value="dimorphic"/>
@@ -214,9 +196,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#diorite">
 		<match value="diorite"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#dorsal">
-		<match value="dorsal"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#edentata">
 		<match value="edentata"/>
@@ -242,7 +221,6 @@
 	<search-key-group href="text/glossary.xhtml#ephemerous-insects">
 		<match value="ephemerous">
 			<value value="ephemerous insect"/>
-			<value value="ephemerous insects"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#fauna">
@@ -276,13 +254,8 @@
 	<search-key-group href="text/glossary.xhtml#fossorial">
 		<match value="fossorial"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#frenum">
-		<match value="frenum"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#fungi">
-		<match value="fungus">
-			<value value="fungi"/>
-		</match>
+		<match value="fungus"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#furcula">
 		<match value="furcula"/>
@@ -341,7 +314,7 @@
 		<match value="homology"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#homoptera">
-		<match value="homoptera"/>
+		<match value="homopterous"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#hybrid">
 		<match value="hybrid"/>
@@ -406,18 +379,13 @@
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lemuridae">
-		<match value="lemurida">
-			<value value="lemuridae"/>
-		</match>
+		<match value="lemur"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lepidoptera">
 		<match value="lepidoptera"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#littoral">
 		<match value="littoral"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#loess">
-		<match value="loess"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#malacostraca">
 		<match value="malacostraca"/>
@@ -456,15 +424,7 @@
 		<match value="mollusca"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#monocotyledons">
-		<match value="monocotyledon">
-			<value value="monocotyledons"/>
-		</match>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#monocotyledonous-plants">
-		<match value="monocotyledonous">
-			<value value="monocotyledonous plant"/>
-			<value value="monocotyledonous plants"/>
-		</match>
+		<match value="monocotyledons"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#moraines">
 		<match value="moraine">
@@ -484,7 +444,7 @@
 		<match value="natatory"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#nauplius-form">
-		<match value="nauplius form"/>
+		<match value="nauplius-form"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#neuration">
 		<match value="neuration"/>
@@ -498,9 +458,7 @@
 		<match value="nictitating membrane"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ocelli">
-		<match value="ocellus">
-			<value value="ocelli"/>
-		</match>
+		<match value="ocelli"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#oesophagus">
 		<match value="oesophagus"/>
@@ -551,14 +509,10 @@
 		<match value="palaeozoic"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#palpi">
-		<match value="palpus">
-			<value value="palpi"/>
-		</match>
+		<match value="palpi"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#papilionaceae">
-		<match value="papilionacea">
-			<value value="papilionaceae"/>
-		</match>
+		<match value="papilionaceous"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#parasite">
 		<match value="parasite"/>
@@ -573,7 +527,7 @@
 		<match value="peloria"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pelorism">
-		<match value="pelorism"/>
+		<match value="peloric"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pelvis">
 		<match value="pelvis"/>
@@ -595,11 +549,6 @@
 	<search-key-group href="text/glossary.xhtml#pistils">
 		<match value="pistil">
 			<value value="pistils"/>
-		</match>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#placentalia">
-		<match value="placentalia">
-			<value value="placentata"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#plantigrades">
@@ -628,12 +577,6 @@
 	<search-key-group href="text/glossary.xhtml#polyandrous">
 		<match value="polyandrous"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#polygamous-plants">
-		<match value="polygamous">
-			<value value="polygamous plant"/>
-			<value value="polygamous plants"/>
-		</match>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#polymorphic">
 		<match value="polymorphic"/>
 	</search-key-group>
@@ -647,9 +590,7 @@
 		<match value="prepotent"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#primaries">
-		<match value="primary">
-			<value value="primaries"/>
-		</match>
+		<match value="primary wing and caudal feathers"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#processes">
 		<match value="processes"/>
@@ -743,9 +684,6 @@
 	<search-key-group href="text/glossary.xhtml#specialisation">
 		<match value="specialisation"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#spinal-cord">
-		<match value="spinal cord"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#stamens">
 		<match value="stamen">
 			<value value="stamens"/>
@@ -777,7 +715,7 @@
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tarsus">
-		<match value="tarsus"/>
+		<match value="tarsi"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#teleostean-fishes">
 		<match value="teleostean">
@@ -789,9 +727,7 @@
 		<match value="tentacula"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tentacles">
-		<match value="tentacle">
-			<value value="tentacles"/>
-		</match>
+		<match value="tentacles"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tertiary">
 		<match value="tertiary"/>
@@ -836,18 +772,15 @@
 			<value value="vertebrate animals"/>
 		</match>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#whorls">
-		<match value="whorl">
-			<value value="whorls"/>
-		</match>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#workers">
 		<match value="worker">
 			<value value="workers"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#zoea-stage">
-		<match value="zoea stage"/>
+		<match value="zoea-stage">
+			<value value="zoeas"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#zooids">
 		<match value="zooid">
