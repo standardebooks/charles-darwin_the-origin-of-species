@@ -44,6 +44,8 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85090264</meta>
 		<meta property="se:subject">Nonfiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A distinguished amateur scientist lays out the evidence for the origin of species by means of natural selection.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Origin of Species&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/charles-darwin"&gt;Charles Darwin&lt;/a&gt; must rank as one of the most influential and consequential books ever published, initiating scientific, social and religious ferment ever since its first publication in 1859. Its full title is &lt;i&gt;The Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life&lt;/i&gt;, in some editions prefaced by the word “On.”&lt;/p&gt;
