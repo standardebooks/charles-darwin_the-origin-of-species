@@ -58,7 +58,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/100424049</dc:source>
 		<meta property="se:production-notes">Leading chapter summaries in the original have been removed as they merely list the subheadings already in the table of contents.</meta>
 		<meta property="se:word-count">200095</meta>
-		<meta property="se:reading-ease.flesch">36.56</meta>
+		<meta property="se:reading-ease.flesch">36.66</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Origin_of_Species</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-darwin_the-origin-of-species</meta>
 		<dc:creator id="author">Charles Darwin</dc:creator>
