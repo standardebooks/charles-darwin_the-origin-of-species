@@ -180,8 +180,8 @@
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dicotyledonous-plants">
-		<match value="dicotyledonous">
-			<value value="dicotyledonous plant"/>
+		<match value="dicotyledonous"/>
+		<match value="dicotyledonous plant">
 			<value value="dicotyledonous plants"/>
 		</match>
 	</search-key-group>
@@ -192,7 +192,9 @@
 		<match value="dimorphic"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dioecious">
-		<match value="dioecious"/>
+		<match value="dioecious">
+			<value value="dioeciously"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#diorite">
 		<match value="diorite"/>
@@ -261,8 +263,8 @@
 		<match value="furcula"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gallinaceous-birds">
-		<match value="gallinaceous">
-			<value value="gallinaceous bird"/>
+		<match value="gallinaceous"/>
+		<match value="gallinaceous bird">
 			<value value="gallinaceous birds"/>
 		</match>
 	</search-key-group>
@@ -273,8 +275,8 @@
 		<match value="ganglion"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ganoid-fishes">
-		<match value="ganoid">
-			<value value="ganoid fish"/>
+		<match value="ganoid"/>
+		<match value="ganoid fish">
 			<value value="ganoid fishes"/>
 		</match>
 	</search-key-group>
@@ -351,8 +353,8 @@
 		<match value="invertebrata"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#invertebrate-animals">
-		<match value="invertebrate">
-			<value value="invertebrate animal"/>
+		<match value="invertebrate"/>
+		<match value="invertebrate animal">
 			<value value="invertebrate animals"/>
 		</match>
 	</search-key-group>
@@ -415,8 +417,8 @@
 		<match value="melanism"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#metamorphic-rocks">
-		<match value="metamorphic">
-			<value value="metamorphic rock"/>
+		<match value="metamorphic"/>
+		<match value="metamorphic rock">
 			<value value="metamorphic rocks"/>
 		</match>
 	</search-key-group>
@@ -566,8 +568,8 @@
 		<match value="plumule"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#plutonic-rocks">
-		<match value="plutonic">
-			<value value="plutonic rock"/>
+		<match value="plutonic"/>
+		<match value="plutonic rock">
 			<value value="plutonic rocks"/>
 		</match>
 	</search-key-group>
@@ -655,8 +657,8 @@
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sedimentary-formations">
-		<match value="sedimentary">
-			<value value="sedimentary formation"/>
+		<match value="sedimentary"/>
+		<match value="sedimentary formation">
 			<value value="sedimentary formations"/>
 		</match>
 	</search-key-group>
@@ -718,8 +720,8 @@
 		<match value="tarsi"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#teleostean-fishes">
-		<match value="teleostean">
-			<value value="teleostean fish"/>
+		<match value="teleostean"/>
+		<match value="teleostean fish">
 			<value value="teleostean fishes"/>
 		</match>
 	</search-key-group>
@@ -767,8 +769,8 @@
 		<match value="vertebrata"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#vertebrate-animals">
-		<match value="vertebrate">
-			<value value="vertebrate animal"/>
+		<match value="vertebrate"/>
+		<match value="vertebrate animal">
 			<value value="vertebrate animals"/>
 		</match>
 	</search-key-group>
