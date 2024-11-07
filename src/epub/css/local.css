@@ -25,7 +25,6 @@ table tbody td:last-child{
 	text-align: right;
 }
 
-
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
